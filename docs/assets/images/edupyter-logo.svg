@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1318"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="edupyter-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1320"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.76435185"
+     inkscape:cx="-6.54149"
+     inkscape:cy="170.73289"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1315" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.076979,-103.6539)">
+    <g
+       id="g18155"
+       transform="matrix(1.2307707,0,0,1.2307721,-934.48066,-559.07689)"
+       inkscape:export-filename="E:\OneDrive\Projets\Edupyter\Graphics\icon_64.png"
+       inkscape:export-xdpi="62.523319"
+       inkscape:export-ydpi="62.523319">
+      <g
+         id="g14246"
+         style="fill:#3674a9;fill-opacity:1">
+        <path
+           id="path8334"
+           style="fill:#3674a9;fill-opacity:1;stroke-width:1.68878;stroke-linecap:round;paint-order:fill markers stroke"
+           d="m 848.82704,538.46751 a 7.9999998,7.9999998 0 0 0 -8.00002,8.00002 v 9.9999 a 1.9999999,1.9999999 0 0 1 -1.99988,1.99988 h -2.99982 -0.99994 -0.99994 c -1.66201,0 -3.00035,1.33834 -3.00035,3.00035 0,1.66198 1.33834,2.99979 3.00035,2.99979 h 0.99994 0.99994 2.99982 a 7.9999998,7.9999998 0 0 0 8.00002,-8.00002 v -9.9999 a 1.9999999,1.9999999 0 0 1 1.99988,-1.99988 1.9999999,1.9999999 0 0 1 1.99988,1.99988 v 2.99982 3.00032 0.99994 c 0,1.66201 1.33781,2.99982 2.99982,2.99982 1.662,0 3.00032,-1.33781 3.00032,-2.99982 v -0.99994 -3.00032 -2.99982 a 7.9999998,7.9999998 0 0 0 -8.00002,-8.00002 z" />
+        <g
+           aria-label="Y"
+           id="g8338"
+           style="font-size:10.5833px;line-height:1.25;letter-spacing:0px;word-spacing:0px;fill:#3674a9;fill-opacity:1;stroke-width:0.264583"
+           transform="matrix(0.62831967,0,0,-0.62831967,197.47156,848.23342)">
+          <path
+             d="m 1043.8712,463.0182 v 2.18016 c 0,0.92075 1.397,0.94192 1.397,0.0106 v -2.19075 l 2.3918,-3.46073 c 0.5503,-0.70909 -0.6244,-1.48167 -1.1853,-0.70909 l -1.8733,2.76225 -1.852,-2.76225 c -0.5504,-0.82549 -1.6934,0.0317 -1.1854,0.70909 z"
+             style="font-family:Multicolore;-inkscape-font-specification:Multicolore;fill:#3674a9;fill-opacity:1"
+             id="path8336" />
+        </g>
+      </g>
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.69522;stroke-linecap:round;stroke-opacity:1;paint-order:fill markers stroke"
+         id="circle8340"
+         cx="552.9447"
+         cy="854.39709"
+         transform="matrix(0,1,1,0,0,0)"
+         r="0.89999998" />
+    </g>
+  </g>
+</svg>
